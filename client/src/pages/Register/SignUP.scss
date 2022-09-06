@@ -1,0 +1,36 @@
+.sighUp_full_sec{
+
+    .signUp_page_log_bttom_text{
+        color: #8e8e8e;
+        font-size: 17px;
+        font-weight: 500;
+        text-align: center;
+        margin: 0 0 15px;
+    }
+
+    .login_form{
+
+        .logwith_facebook{
+            background: #0095f6 ;
+            color: #fff;
+            padding: 5px 0;
+            border-radius: 4px;
+        }
+        .signUp_page_about{
+            margin: 10px 0;
+            font-size: 12px;
+            text-align: center;
+            line-height: 16px;
+            span{
+                display: block;
+                color: #8e8e8e !important;
+                margin-top: 15px;
+                a{
+                    color: #8e8e8e;
+                    font-weight: 600;
+                }
+
+            }
+        }
+    }
+}

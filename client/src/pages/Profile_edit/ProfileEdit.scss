@@ -1,0 +1,33 @@
+.edit_container{
+    display: flex;
+    justify-content: center;
+    .edit_warap{
+        margin-top: 60px;
+        width: 935px;
+      .edit_body{
+        background: #fff;
+        margin: 30px auto 0;
+        border: 1px solid #ddd;
+        display: flex;
+        .left_colum{
+            width: 25%;
+            border-right: 1px solid #ddd;
+            .edite_logo{
+                width: 50px;
+            }
+            .edte_menu{
+                ul{
+                    li{
+                        a{
+
+                        }
+                    }
+                }
+            }
+        }
+        .right_colum{
+            width: 75%;
+        }
+      }   
+    }
+}
